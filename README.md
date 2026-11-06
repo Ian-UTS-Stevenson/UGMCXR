@@ -24,7 +24,8 @@
 * Capital expenditure?
 
 ## 2026-11-06 Fri 12:32 pm
-Copilot-moment–kinematic gesture taxonomy 06-11-2026.docx
+[Copilot-moment–kinematic gesture taxonomy 06-11-2026.docx]
+[endnote search on gesture.rtf]
 
 ## 2026-11-05 Thu 17:09 pm
 https://gesture.live/
