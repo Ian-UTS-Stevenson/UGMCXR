@@ -1,4 +1,6 @@
 # Unencumbered gestural music control in XR NOTES
+## Zotero
+https://www.zotero.org/groups/6759060/ugmcxr/library
 
 ## Next meeting
 ###	Brainstorm (document):
