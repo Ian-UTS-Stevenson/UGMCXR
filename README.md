@@ -26,6 +26,9 @@ https://www.zotero.org/groups/6759060/ugmcxr/library
 * Capital expenditure?
     *  Forum Ircam?
 
+## 2026-11-12 Thu 13:47 pm
+Jacob to continue collecting literature and make a priority reading list
+
 ## 2026-11-06 Fri 12:32 pm - Misc activity
 * IS: Had a copilot chat:
 [Copilot-moment–kinematic gesture taxonomy 06-11-2026.docx](https://github.com/Ian-UTS-Stevenson/UGMCXR/blob/main/Copilot-moment%E2%80%93kinematic%20gesture%20taxonomy%2006-11-2026.docx)
