@@ -1,0 +1,343 @@
+﻿@article{RN1830,
+   author = {Arfib, D. and Couturier, J. M. and Kessous, L. and Verfaille, V.},
+   title = {Strategies of mapping between gesture data and synthesis model parameters using perceptual spaces},
+   journal = {Organised Sound},
+   volume = {7},
+   number = {02},
+   ISSN = {1355-7718
+1469-8153},
+   DOI = {10.1017/s1355771802002054},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@phdthesis{RN71,
+   author = {Davidson, Jane W.},
+   title = {The perception of expressive movement in music performance},
+   university = {PhD diss. City U., London. 1991, 349 pp},
+   note = {Doctoral dissertation (incl. non-Ph.D. doctor's degrees, e.g. DMA); dd},
+   keywords = {performers--general: expressivity: role of movement; movement and
+gesture: performers: expressivity},
+   type = {Thesis}
+}
+
+@phdthesis{RN72,
+   author = {Davidson, Jane W.},
+   title = {The perception of expressive movement in music performance},
+   university = {PhD diss. City U., London.},
+   note = {Doctoral dissertation (incl. non-Ph.D. doctor's degrees, e.g. DMA); dd},
+   keywords = {performers--general: expressivity: role of movement; movement and
+gesture: performers: expressivity},
+   year = {1991},
+   type = {Thesis}
+}
+
+@article{RN73,
+   author = {Davidson, Jane W.},
+   title = {Visual perception of performance manner in the movements of solo musicians},
+   journal = {Psychology of music},
+   volume = {Vol. 21},
+   number = {2},
+   pages = {103-113},
+   note = {
+0305-7356
+Article in a periodical; ap},
+   abstract = {The study of musical perception has focused almost exclusively on sound, ignoring the role of the performer's body movements. While anecdotes frequently refer to the importance of those movements, there is scant psychological evidence to support this finding. The closest equivalent work in visual-event perception research has shown that body movements reveal covert mental dispositions, and therefore provide important information for the observer. With these findings in mind, information conveyed by the movements of a musician when he or she is asked to play the same piece in three different expressive manners is investigated. These performance manners are presented to observers in three modes--vision alone, sound alone, and sound and vision together--to investigate the relative contributions of different perceptual modes. The results reveal that vision is a useful source of information about manner, that it more clearly specifies manner than do other modes, and that it needs to be considered along with aural information in psychological studies of musical perception. [Abstractor: author]},
+   keywords = {perception: visual: influence on auditory judgment;
+performers--general: movement: influence on perception; movement
+and gesture: performers: influence on perception},
+   year = {1993},
+   type = {Journal Article}
+}
+
+@article{RN75,
+   author = {Davidson, Jane W.},
+   title = {The role of the body in the production and perception of solo vocal performance: A case study of Annie Lennox},
+   journal = {MusicÃ⁄ scientiÃ⁄: The journal of the European Society for the Cognitive Sciences of Music},
+   volume = {5},
+   number = {2},
+   pages = {235-256},
+   note = {1029-8649
+Article in a symposium; as},
+   abstract = {[unedited] Interprets the body movements of singers in an attempt to understand the relationships between physical control and the musical material being performed, and the performer's implicit and explicit expressive intentions. The work builds upon a previous literature which has suggested that the relationship between physical execution and the expression of mental states is a subtle and complex one. For instance, performers appear to develop a vocabulary of expressive gestures, yet these gestures-though perceptually discreet-co-exist and are even integrated to become part of the functional movement of playing. Additionally, there is the matter of how both musical and extramusical concerns are coordinated between performer, co-performers and audience using body movements. A case study shows how, in the interaction between body style, musical expression and communication movements of both an individual and culturally determined style are used. Many of these performance movements have clear functions and meanings: to communicate expressive intention (for instance, a sudden surge forwards to facilitate the execution of a loud musical passage, or a high curving hand gesture to link sections of the music during a pause); to communicate to the audience or co-performers a need for coordination or participation (for example, nodding the head to indicate "now" for the audience to join in a chorus of a song; or exchanging glances for the co-performer to take over a solo); to signal extramusical concerns (for example, gesturing to the audience to remain quiet); and to present information about the performer's personality, with their individualized characteristics providing important cues (muted contained gestures, or large extravagant gestures, for example); and to show off to the audience. From these results a theory is developed to explain how gestural elements help to make a performance meaningful. [Abstractor: journal]},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN84,
+   author = {Emmerson, Simon},
+   title = {Computers and live electronic music: Some solutions, many problems},
+   note = {pp. 135-138
+Article in a symposium; as},
+   abstract = {Examines current gesture transducers and how they influence the interaction between humans and computers in live performance. The limitations of existing equipment are examined, and paths for further development are suggested. [Abstractor: author]},
+   keywords = {interpretation--by performer or topic: computer music: performer
+/computer interaction: influenced by gesture transducers; computer
+music: performance: gesture sensing},
+   type = {Journal Article}
+}
+
+@article{RN1967,
+   author = {Everett, Yayoi Uno},
+   title = {Calligraphy and musical gestures in the late works of Chou Wen-chung},
+   journal = {Contemporary Music Review},
+   volume = {26},
+   number = {5-6},
+   pages = {569-584},
+   ISSN = {0749-4467
+1477-2256},
+   DOI = {10.1080/07494460701652988},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN107,
+   author = {Harada, Tsutomu and Sato, Akio and Hashimoto, Shuji and Ohteru, Sadamu},
+   title = {Real time control of 3D sound space by gesture},
+   note = {pp. 85-88
+Article in a symposium; as},
+   abstract = {In most interactive performance systems, the output's tone and tempo are controlled in real time to allow for artistic improvisation. However, the supposed spatial layout of instruments is fixed during the performance. In the proposed system, the position and movement of the sound sources in 3D space, interactively, were controlled by the performer's natural gesture. The system consists of Data Glove, the gesture recognition system, the MIDI controller, and three speaker pairs placed oppositely on X, Y, and Z axes. Performers can use the proposed system to control the 3D sound interactively and thus integrate improvised sound motion into their performance. [Abstractor: authors]},
+   keywords = {computer applications: performance: interactive: real-time
+spatialization; improvisation: computer applications: gestural
+controllers: applied to spatialization; space: electronic music:
+real-time spatialization; movement and gesture: performance:
+electronic music: as controller},
+   type = {Journal Article}
+}
+
+@book{RN2478,
+   author = {Hawley, Katherine and Macpherson, Fiona},
+   title = {The admissible contents of experience},
+   publisher = {Wiley-Blackwell},
+   address = {Chichester, West Sussex, UK ; Malden, MA},
+   note = {2011001480
+edited by Katherine Hawley and Fiona Macpherson.
+ill. ; 23 cm.
+Includes bibliographical references and index.
+Machine generated contents note: Introduction (Katherine Hawley, University of St. Andrews and Fiona Macpherson, University of Glasgow). -- 1. Perception And The Reach Of Phenomenal Content (Tim Bayne, University of Oxford). -- 2. Seeing Causings And Hearing Gestures (Steven Butterfill, University of Warwick). -- 3. Experience And Content (Alex Byrne, Massachusetts Institute of Technology). -- 4. Is Perception A Propositional Attitude? (Tim Crane, University College London). -- 5. Conscious Reference (Alva Noë, University of California, Berkeley). -- 6. What Are The Contents Of Experiences? (Adam Pautz, University of Texas at Austin). -- 7. Aspect-Switching And Visual Phenomenal Character (Richard Price, University of Oxford). -- 8. The Visual Experience Of Causation (Susanna Siegel, Harvard University). -- 9. The Admissible Contents Of Visual Experience (Michael Tye, University of Texas at Austin).},
+   abstract = {"Which objects and properties are represented in perceptual experience? Although perceptual experiences frequently give rise to beliefs, the content of these beliefs do not always simply reflect the contents of the experiences on which they are based. Instead, they often rest on background knowledge and beliefs, as well as experience. This raises the question of how are we able to determine what the admissible contents of experience are, whether they include singular or existential contents, and whether they include contents pertaining to causation or natural kinds. The papers in this collection address these issues, together with questions concerning the nature of perceptual content. They deal with the central issues of whether perceptual content is similar to the content of the propositional attitudes; whether all states with content fall neatly into the categories of either belief or experience. The book also focuses on whether there exists a continuum from states that are more like perceptual experiences to states that are more like belief, and, indeed, ultimately whether we should consider perceptual experiences to have content at all. This ground-breaking volume is published in association with the journal Philosophical Quarterly"--},
+   keywords = {Experience.
+Perception.
+Evidence.
+Belief and doubt.
+PHILOSOPHY / Logic},
+   pages = {200 p.},
+   ISBN = {9781444333350 (pbk.)},
+   url = {http://catalogimages.wiley.com/images/db/jimages/9781444333350.jpg},
+   year = {2011},
+   type = {Book}
+}
+
+@inbook{RN130,
+   author = {Lazetta, F},
+   title = {Meaning in Musical Gesture},
+   booktitle = {Trends in Gestural Control of Music},
+   editor = {Wanderley, M and Battier, M},
+   publisher = {IRCAM - Centre Pompidou},
+   address = {Paris},
+   year = {2000},
+   type = {Book Section}
+}
+
+@inbook{RN244,
+   author = {Lazetta, F},
+   title = {Meaning in Musical Gesture},
+   booktitle = {Trends in Gestural Control of Music},
+   editor = {Battier, M},
+   publisher = {IRCAM - Centre Pompidou},
+   address = {Paris},
+   year = {2000},
+   type = {Book Section}
+}
+
+@article{RN131,
+   author = {Lee, Michael A. and Freed, Adrian and Wessel, David L.},
+   title = {Real-time neural network processing of gestural and acoustic signals},
+   note = {pp. 277-280
+Article in a symposium; as},
+   abstract = {A new object added to the MAX language facilitates neural computations. It makes MAX an ideal environment for rapid experiments in the application of adaptive techniques to musical problems. Networks in MAX were programmed to recognize gestures from a MIDI keyboard, a Zeta MIDI guitar, a radio drum, and Lightning. In one experiment, a network issued messages to synchronize MIDI guitar motives with images from a HyperMedia work. Configurations and musical applications of the networks are also discussed. [Abstractor: authors]},
+   keywords = {computer applications: artificial intelligence: neural networks:
+MAX: real-time processing; computer applications: MIDI: MAX:
+neural network processing: gestural and acoustic signals},
+   type = {Journal Article}
+}
+
+@article{RN1671,
+   author = {Levitin, Daniel J. and McAdams, Stephen and Adams, Robert L.},
+   title = {Control parameters for musical instruments: a foundation for new mappings of gesture to sound},
+   journal = {Organised Sound},
+   volume = {7},
+   number = {02},
+   ISSN = {1355-7718
+1469-8153},
+   DOI = {10.1017/s135577180200208x},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@inproceedings{RN137,
+   author = {Lyons, M and Tetsani, N},
+   title = {Mouthesisor: A Facial Gesture Musical Interface},
+   booktitle = {NIME - 02 New Interfaces for Musical Expression},
+   url = {http://www.mis.atr.co.jp/~mlyons/pub_pdf/79.pdf},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN148,
+   author = {Modler, P and Myatt, T and Saup, M},
+   title = {An Experimental Set of Hand Gestures for Expressive Control of Musical Parameters in Realtime},
+   booktitle = {NIME03},
+   editor = {Thibault, Francois},
+   publisher = {McGill University},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN246,
+   author = {Modler, P and Myatt, T and Saup, M},
+   title = {An Experimental Set of Hand Gestures for Expressive Control of Musical Parameters in Realtime},
+   booktitle = {NIME03},
+   editor = {Thibault, Francois},
+   publisher = {McGill University},
+   type = {Conference Proceedings}
+}
+
+@article{RN151,
+   author = {Mulder, Axel},
+   title = {Virtual musical instruments: Accessing the sound synthesis universe as a performer},
+   note = {pp. 243-250
+Article in a symposium; as},
+   abstract = {With current state-of-the-art human movement tracking technology it is possible to represent in real-time most of the degrees of freedom of a human body or part of it. This allows for the design of a virtual musical instrument (VMI), analogous to a physical musical instrument, as a gestural interface that will provide for much greater freedom in the mapping of movement to sound. A performer may therefore control parameters of sound synthesis systems that in real-time performance situations are currently not controlled to their full potential or simply not controlled at all. In order to decrease the learning and adaptation needed and avoid injuries, the design must address the musculo-skeletal, neuro-motor and symbolic levels that are involved in the programming and control of human movement. The use of virtual musical instruments will likely result in new ways of making music and new musical styles. [Abstractor: author]},
+   keywords = {instruments--electronic: electronic instruments: gestural control;
+performance: electronic instruments: gestural control;
+terminology: "virtual instrument"; movement and gesture:
+electronic instrument control},
+   type = {Journal Article}
+}
+
+@article{RN152,
+   author = {Mulder, Axel},
+   title = {Sound sculpting: Performing with virtual musical instruments},
+   note = {pp. 151-164
+Article in a symposium; as},
+   keywords = {instruments--electronic: electronic instruments: gestural control;
+performance: electronic instruments: gestural control;
+terminology: "virtual instrument"; movement and gesture:
+electronic instrument control},
+   type = {Journal Article}
+}
+
+@article{RN153,
+   author = {Mulder, Axel},
+   title = {Getting a grip on alternate controllers: Addressing the variability of gestural expression in musical instrument design},
+   note = {Leonardo music journal: Journal of the International Society for the Arts, Sciences and Technology. Vol. 6, pp. 33-40. 1996
+0961-1215
+Article in a periodical; ap},
+   abstract = {A new approach to instrument design focuses on the needs and preferences of individual performers, whose capacity for gestural expression and movement capabilities vary. In optimizing performer-instrument compatibility, representation plays an important role. Considering the use of the hand in musical performance, analysis distinguishes two basic types of hand movement and leads to the definition of instruments that can be reconfigured to accommodate individual gestural preferences and capabilities. [Abstractor: author]},
+   keywords = {instruments, miscellaneous: experimental instruments, making:
+manual controls: design; movement and gesture: hand: influence on
+instrument design; instrumental playing: physiology: hands:
+influence on instrument design; instrument building: design:
+influenced by hand movement},
+   year = {1996},
+   type = {Journal Article}
+}
+
+@article{RN203,
+   author = {Thompson, L.A. and Massaro, D.W.},
+   title = {Evaluation and integration of speech and pointing gestures during referential understanding},
+   journal = {Journal of Experimental Child Psychology},
+   volume = {42},
+   pages = {144-168},
+   year = {1986},
+   type = {Journal Article}
+}
+
+@inproceedings{RN204,
+   author = {Traube, Caroline and Depalle, Philippe and Wanderley, Marcelo},
+   title = {Indirect Aquisition of Instrument Gesture Based on Signal, Phisical and Perceptual Information},
+   booktitle = {NIME03},
+   editor = {Thibault, Francois},
+   publisher = {McGill University},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN256,
+   author = {Traube, Caroline and Depalle, Philippe and Wanderley, Marcelo},
+   title = {Indirect Aquisition of Instrument Gesture Based on Signal, Phisical and Perceptual Information},
+   booktitle = {NIME03},
+   editor = {Thibault, Francois},
+   publisher = {McGill University},
+   type = {Conference Proceedings}
+}
+
+@inbook{RN209,
+   author = {Wanderley, M},
+   title = {Quantative Analysis of Non-obvious Performer Gestures},
+   booktitle = {Gesture and Sign Language in Human-Computer Interactions},
+   editor = {Wachsmuth, I and Sowa, T},
+   publisher = {Springer},
+   address = {Verlag},
+   year = {2002},
+   type = {Book Section}
+}
+
+@article{RN217,
+   author = {Wessel, David L.},
+   title = {Improvisation with highly interactive real-time performance systems},
+   pages = {344-347},
+   note = {Article in a symposium; as},
+   abstract = {Describes a software environment written in MAX and organized into objects that function as listening, composing, and performing assistants. Listening assistants extract information from an on-going performance. They include DSP-based objects for pitch extraction and parsing of the acoustic data stream, as well as tempo extractors and objects that conduct musical analysis. Composing assistants help the improvisor manage his performance materials. Performance assistants help with phrasing, articulation, and gesture mapping. [Abstractor: author]},
+   keywords = {computer applications: improvisation: real-time performance;
+improvisation: computer applications: real-time performance;
+composition: computer applications: improvisation; articulation:
+computer applications: improvisation},
+   type = {Journal Article}
+}
+
+@article{RN218,
+   author = {Wessel, David L.},
+   title = {Instruments that learn, refined controllers, and source model loudspeakers},
+   journal = {Computer music journal},
+   volume = {15},
+   number = {4},
+   pages = {82-86},
+   note = {Computer music journal. Vol. 15, no. 4, pp. 82-86. winter 1991
+0148-9267
+Article in a symposium; as},
+   abstract = {With the aim of developing intelligent instruments that could adapt to personal playing styles, the use of neural networks has been applied in conjunction with musical instrument controllers to provide a set of personal gestures to be used as training materials for the back-propagation learning algorithm. Refined controllers provide alternatives to the keyboard as computer music controller, while source model loudspeakers would be concentrated in a single location, and would have programmable radiation patterns. These developments would allow the computer musician to perform in a manner acoustically compatible with traditional instruments. [Abstractor: Jenkins, Martin]},
+   keywords = {electronic sound generation: instruments: based on artificial
+intelligence; instruments--electronic: electronic instruments:
+based on artificial intelligence},
+   year = {1991},
+   type = {Journal Article}
+}
+
+@article{RN220,
+   author = {Williamon, Aaron and Davidson, Jane W.},
+   title = {Exploring co-performer communication},
+   journal = {The journal of the European Society for the Cognitive Sciences of Music},
+   volume = {Vol. 6},
+   number = {1},
+   pages = {53-72},
+   note = {1029-8649
+Article in a periodical; ap},
+   abstract = {[unedited] Examines the development and implementation of general social and specific non-verbal communication between two expert pianists who prepared and gave a recital of piano duo and duet music. All ensemble rehearsals and the final performance were videotaped. Following the performance, the musicians were interviewed in order to document their thoughts on the learning and performance processes. From the videotaped rehearsals and performance, data concerning musical coordination, social interaction, non-verbal gestures and looking behavior were coded and counted. The results show that these excellent sight-readers used rehearsals to consolidate the timing, phrasing and sense of musical style. Moreover, an emergent set of coordinated, non-verbal gestures and eye-contact developed, with these actions increasing significantly over the rehearsal process at locations in the music identified by the pianists as "important for coordinating performance and communicating musical ideas." Thus, the two performers acquired a deepening expressive and communicative assurance along with a familiarization with the musical material. The findings are discussed in relation to their implications for musical performance by highlighting the elements of co-performer interaction that were negotiated and coordinated throughout the rehearsal process. [Abstractor: journal]},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN3397,
+   author = {Durant, Yati E.},
+   title = {Spontaneous Composition for Screen: linear and non-linear improvisation for instruments and electronics},
+   journal = {The New Soundtrack},
+   volume = {6},
+   number = {2},
+   pages = {171-189},
+   note = {doi: 10.3366/sound.2016.0090},
+   abstract = {This research examines non-traditional music performance and composition practices utilising experimental electronic and acoustic performance strategies for scoring films. It looks at innovation within screen sound by examining how technological practices, both innovative and more established, are facilitating and shaping the creative processes of screen composition and sound design. At the forefront of this research is taking into account new forms of electronic and musician interface to the improvisation process when composing in real time, which includes controllers that manipulate sound in real time, musical gesture and notation for live performance, and new compositional structure as pertains to dramatic flow when working to picture.},
+   ISSN = {2042-8855},
+   DOI = {10.3366/sound.2016.0090},
+   url = {https://doi.org/10.3366/sound.2016.0090},
+   year = {2016},
+   type = {Journal Article}
+}
+
