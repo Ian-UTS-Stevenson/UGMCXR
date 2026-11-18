@@ -26,6 +26,9 @@ https://www.zotero.org/groups/6759060/ugmcxr/library
 * Capital expenditure?
     *  Forum Ircam?
 
+## 2026-11-19 Thu 08:54 am
+Added: [Consensus_review_literature_on_gestural_control_of_music_in_XR 19-11-2026.pdf](https://github.com/Ian-UTS-Stevenson/UGMCXR/blob/main/Early%20Prep%20Files/Consensus_review_literature_on_gestural_control_of_music_in_XR%2019-11-2026.pdf)
+
 ## 2026-11-12 Thu 13:47 pm
 Jacob to continue collecting literature and make a priority reading list
 
