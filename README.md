@@ -5,10 +5,12 @@ https://www.zotero.org/groups/6759060/ugmcxr/library
 ## Next meeting
 ###	Brainstorm (document):
 * RQ 1 lit review: (consider keywords=scope) Unencumbered gestural music control in XR (is this an oxymoron?)
+* RQ: While musical systems in XR have been extensively studied, the specific aspect of gestural control remains a subset of all the features of such systems. Therefore, this research seeks to focus on and consolidate a review of research which considers **gestural control** in XR.
 * RQ 2 practice-based research
 * Scope (in/out/undecided)
   * XR or fully unencumbered?
   * Full-body, hands only?
+  * Unencumbered gestural music control OR gestural music control
 
 ###	Establish: 
 * Goals
