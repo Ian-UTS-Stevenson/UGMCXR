@@ -20,9 +20,9 @@ https://www.zotero.org/groups/6759060/ugmcxr/library
   * Weekly meetings, 14 hours per week (total 119 hours)
 *	Shared repository
       * GitHub
-      * OneDrive?
+      ~~* OneDrive?~~
 * Project tracking and cloud collaboration
-  * Necessary? This doc?
+  ~~* Necessary? This doc?~~
 * Capital expenditure?
     *  Forum Ircam?
 
