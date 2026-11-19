@@ -2,7 +2,22 @@
 ## Zotero
 https://www.zotero.org/groups/6759060/ugmcxr/library
 
-## Next meeting
+## Second meeting
+
+Confirmed title: Scoping review of controller-free gestural musical interaction in XR
+
+Next steps:
+1. Need to define: 
+music / musical control (include music experience, personalisation) 
+XR
+Gesture
+Controller free
+
+2. Refine the research questions in regards to these definitions
+
+3. From there we can define search terms and begin putting together the methodology
+
+## First meeting
 ###	Brainstorm (document):
 * RQ 1 lit review: (consider keywords=scope) Unencumbered gestural music control in XR (is this an oxymoron?)
 * RQ: While musical systems in XR have been extensively studied, the specific aspect of gestural control remains a subset of all the features of such systems. Therefore, this research seeks to focus on and consolidate a review of research which considers **gestural control** in XR.
