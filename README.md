@@ -1,6 +1,9 @@
-# Unencumbered gestural music control in XR NOTES
+# Hand-tracked gestural musical interaction in XR NOTES
 ## Zotero
 https://www.zotero.org/groups/6759060/ugmcxr/library
+
+## Google Docs Draft
+https://docs.google.com/document/d/1ZM76f2YnfogTa5uECFVYWAuyfR_e0pRH3k4GwF_ATmg/edit?usp=sharing
 
 ## Second meeting
 
