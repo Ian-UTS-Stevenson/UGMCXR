@@ -5,9 +5,20 @@ https://www.zotero.org/groups/6759060/ugmcxr/library
 ## Google Docs Draft
 https://docs.google.com/document/d/1ZM76f2YnfogTa5uECFVYWAuyfR_e0pRH3k4GwF_ATmg/edit?usp=sharing
 
+## Third meeting
+
+Working title: Hand-tracked gestural musical interaction in XR: A scoping review
+
+Next steps:
+1. Test search terms and refine as needed in all databases
+2. Check for known inclusion studies to see if they appear as a check
+3. Collect official database searches and import into endnote (document numbers for chart)
+4. Delete Duplicates (document number)
+5. Confirm exclusion criteria to then begin initial title/abstract screening
+
 ## Second meeting
 
-Confirmed title: Scoping review of controller-free gestural musical interaction in XR
+Working title: Scoping review of controller-free gestural musical interaction in XR
 
 Next steps:
 1. Need to define: 
